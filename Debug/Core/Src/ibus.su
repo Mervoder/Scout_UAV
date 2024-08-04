@@ -1,0 +1,2 @@
+../Core/Src/ibus.c:12:6:iBus_Parsing	16	static
+../Core/Src/ibus.c:33:15:iBus_Check_CHKSUM	24	static
